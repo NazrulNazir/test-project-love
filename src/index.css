@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  height: 100vh;
+}
+
+#text-shadow {
+  text-shadow: 0 0 4px black;
+}
+
+#love-shado {
+  text-shadow: 0 0 10px black;
+}
+
+button {
+  box-shadow: 0 0 8px black;
+}
